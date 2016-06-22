@@ -33,3 +33,11 @@ color: #EDCF0C;
 
 a:link { color: #EDCF0C;
 }
+a:visited { color: #EDCF0C;
+}
+a:hover { color: white;
+}
+
+
+
+
