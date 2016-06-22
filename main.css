@@ -1,0 +1,19 @@
+.body {
+  display: flex;
+}
+
+.pages {
+  max-width: 25%;
+  min-width: 140px;
+  background-color: #FFEE00;
+  flex: 1;
+}
+
+.intro {
+  padding-left: 30px;
+}
+
+.links {
+
+}
+
