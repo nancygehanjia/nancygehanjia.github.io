@@ -38,6 +38,8 @@ a:visited { color: #DFED47;
 a:hover { color: white;
 }
 
-
+.comingsoon {
+background-image: url('background_images/comingsoon.jpg');
+}
 
 
