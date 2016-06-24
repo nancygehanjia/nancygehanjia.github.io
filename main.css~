@@ -1,13 +1,13 @@
-.body {
-  display: flex;
-	background-image: url('background_images/yb.jpg');
+body {
+  background-image: url('background_images/yb.jpg');
 }
 
 .pages {
   max-width: 25%;
   min-width: 140px;
-  background-color: #FFEE00;
-  flex: 1;
+  position: relative;
+  top: 20px;
+  right:100px;
 }
 
 .intro {
@@ -40,6 +40,7 @@ a:hover { color: white;
 
 .comingsoon {
 background-image: url('background_images/comingsoon.jpg');
+color: white;
 }
 
 

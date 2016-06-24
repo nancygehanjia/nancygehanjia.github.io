@@ -7,12 +7,6 @@
 </head>
 <body>
 
-<div class = "intro">	
-	<h3> Nancy's Fancy Crafts Store</h3>	
-	<p> everything here is about crafts, feel free to look around!</p>
-</div>
-
-
 <div class = "body">
 
 <div class = "pages">
@@ -25,6 +19,10 @@
 
 </div>
 
+<div class = "intro">	
+	<h3> Nancy's Fancy Crafts Store</h3>	
+	<p> everything here is about crafts, feel free to look around!</p>
+</div>
 
 
 <!--<div class = "links">
