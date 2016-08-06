@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "main.css">
+	
+	<title> Nancy's Fancy Crafts Store</title>
+</head>
 
+<div class="home">
+<a href="index.html"> <h1>home </h1> </a>
+</div>
+
+<div class="videos">
+	<video width="320" height="240" controls>
+ 	 <source src = "videos/first_v.mp4" type = "video/mp4">
+  	 <source src = "videos/first_v.ogv" type = "video/ogg">
+	</video>
+
+ 	<video width="320" height="240" controls>
+	 <source src = "videos/bottledonuts.mp4" type = "video/mp4">
+  	 <source src = "videos/bottledonuts.ogv" type = "video/ogg">
+	</video>
+
+	<video width="320" height="240" controls>
+	 <source src = "videos/cakewrapping.mp4" type = "video/mp4">
+  	 <source src = "videos/cakewrapping.ogv" type = "video/ogg">
+	</video>
+	
+	<video width="320" height="240" controls>
+	 <source src = "videos/cakeconnect.mp4" type = "video/mp4">
+  	 <source src = "videos/cakeconnect.ogv" type = "video/ogg">
+	</video>
+	
+	<video width="320" height="240" controls>
+	 <source src = "videos/cc_m.mp4" type = "video/mp4">
+  	 <source src = "videos/cc_m.ogv" type = "video/ogg">
+	</video>
+
+	<video width="320" height="240" controls>
+	 <source src = "videos/swire.mp4" type = "video/mp4">
+  	 <source src = "videos/swire.ogv" type = "video/ogg">
+	</video>
+
+	<video width="320" height="240" controls>
+	 <source src = "videos/leafcake.mp4" type = "video/mp4">
+  	 <source src = "videos/leafcake.ogv" type = "video/ogg">
+	</video>
+
+ 	<video width="320" height="240" controls>
+	 <source src = "videos/atgs.mp4" type = "video/mp4">
+  	 <source src = "videos/atgs.ogv" type = "video/ogg">
+	</video>
+	
+</div>
+<html>
