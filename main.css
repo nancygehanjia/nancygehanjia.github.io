@@ -27,7 +27,7 @@ background-image: url('background_images/hb.jpg');
 
 .intro {
    font:'Cookie', Helvetica, sans-serif;
-  color: #fff;
+  color: #DFED47;
   font-size:22px;
 }
 
@@ -37,9 +37,9 @@ color: #89940D;
 }
 
 
-a:link { color: #DFED47;
+a:link { color: #6b6b47;
 }
-a:visited { color: #DFED47;
+a:visited { color: #6b6b47;
 }
 a:hover { color: white;
 }
