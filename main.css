@@ -10,9 +10,6 @@ body {
   left:100px;
 }
 
-.intro {
-  padding-left: 30px;
-}
 
 .links {
 
@@ -26,8 +23,9 @@ background-image: url('background_images/hb.jpg');
 }
 
 .intro {
+   padding-left: 30px;
    font:'Cookie', Helvetica, sans-serif;
-  color: #DFED47;
+  color: #6b6b47;
   font-size:22px;
 }
 
@@ -37,9 +35,9 @@ color: #89940D;
 }
 
 
-a:link { color: #6b6b47;
+a:link { color: #DFED47;
 }
-a:visited { color: #6b6b47;
+a:visited { color: #DFED47;
 }
 a:hover { color: white;
 }
@@ -49,4 +47,5 @@ background-image: url('background_images/comingsoon.jpg');
 color: white;
 }
 
-
+grey:#6b6b47
+green:#DFED47
