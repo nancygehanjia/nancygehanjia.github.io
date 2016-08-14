@@ -28,6 +28,7 @@ background-image: url('background_images/hb.jpg');
 .intro {
    font:'Cookie', Helvetica, sans-serif;
   color: #fff;
+  font-size:22px;
 }
 
 li {
