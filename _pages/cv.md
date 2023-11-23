@@ -52,7 +52,7 @@ Work experience
   
 Teaching
 ======
-  • **CS 124** *An Introduction to Computer Science* Course Associate Head (Since 2022 Fall)  
+* **CS 124** *An Introduction to Computer Science* Course Associate Head (Since 2022 Fall)  
   Instructor: [Prof. Geoffrey Challen](https://www.geoffreychallen.com/)
   
 Scholarships and awards
