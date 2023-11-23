@@ -3,8 +3,6 @@ layout: archive
 title: "Hobby"
 permalink: /hobby/
 author_profile: true
-redirect_from: 
-  - /hobby/
 ---
 
 {% include base_path %}
