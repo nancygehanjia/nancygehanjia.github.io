@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Nancy. I am currently a senior undergrad studing at UIUC, majoring in Math + CS. I am have an interest in Formal Methods. 
+My name is Gehan Jia, I also go by Nancy. I am currently a senior undergraduate student at the University of Illinois at Urbana-Champaign (UIUC) majoring in Math + CS. I am expected to graduate in May 2024.
+ 
+I am applying for Graduate Study positions in Computer Science, 2024 fall. My insterests lies in Formal Methods.
+ 
+Currently, I am working in [Professor Gagandeep Singh's FOCAL Lab](https://ggndpsngh.github.io/) as an undergraduate researcher. My focus of research is on Pointer Analysis, a discipline that still involves abstract logical concepts but emphasizes the validation of computer programs intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++ and Soufflé. In this project, I am taking a look at a pointer analysis program called “[Scaler](https://bitbucket.org/yanniss/doop/src/master/)", which can apply context-sensitive analysis on any Java program; it focuses on time-importance, that is, it makes the analysis process scalable with any given time threshold. My goal is to improve its current performance so that it also considers precision of the analysis.
+
+Feel free to reach out to me through email!
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

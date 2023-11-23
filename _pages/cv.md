@@ -11,49 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Computer Science, University of Illinois at Urbana-Champaign, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2023 - Present: Undergraduate Student Researcher
+  * Focal Lab, Champaign, IL
+  * Duties included: •Optimized a large code base involving multiple langauges (Soufflé, Java, Python, etc.) to enhence the tradeoff between precision and scalability of Pointer Analysis. Modified a Pointer Analysis Framework to be amenable for Reinforcement Learning. Presented at weekly meetings where lab members and guests shared their work and provided feedbacks.
+  * •Mentors: [Gagandeep Singh](https://ggndpsngh.github.io/), [Yasmin Sarita](https://yasminsarita.com/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2022 - Aug 2022: Undergraduate Student Researcher
+  * Illinois Geometry Lab at UIUC Mathematics Department, Champaign, IL
+  * Worked to find the properties of possible minimal counterexamples for the Burning Number Conjecture. Simulated the graph burning process in python environment. Used linear algebraic tools to study the spectrum of graphs.
+  * Mentor: Sean English
+
+* Summer 2021: Project Manager Assistant
+  * Beijing Beiming Shuke Information & Technology Co., Ltd., Guangzhou Branch, Guangzhou, China
+  * Collaborated with several leading tech companies in a government issued project on building secured applications for citizen activity monitorization and facility management. Coordinated with Project Managers and Architects on data transportations and test result deliveries. Ensured the synchronization of data in both testing and performing environments
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+  • **CS 124** *An Introduction to Computer Science* Course Associate Head (Since 2022 Fall)  
+  Instructor: [Prof. Geoffrey Challen](https://www.geoffreychallen.com/)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mrs. E. J. Hoover Scholarship
+* Outstanding Course Assistants Award of Fall 2022 (Department of Computer Science at UIUC)
