@@ -1,12 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: "Hobby"
-excerpt: "Hobby"
+permalink: /hobby/
 author_profile: true
 redirect_from: 
   - /hobby/
-  - /hobby.html
 ---
+
+{% include base_path %}
 
 I am Minoring in Critical Film Prodcution at UIUC. 
 

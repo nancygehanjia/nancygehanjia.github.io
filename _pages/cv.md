@@ -63,4 +63,4 @@ Scholarships and awards
 Service and leadership
 ======
 * Oct 2020 - Present: Vice President of [Corn TV (University RSO)](https://www.youtube.com/channel/UCjMbIxvnViflb12nVl_A7pg)
-* Aug 2022 - Aug 2023: Resident Advisor for Community Engagement at St. John’s Catholic Newman Center(University Private Certified Housing)
+* Aug 2022 - Aug 2023: Resident Advisor for Community Engagement at St. John’s Catholic Newman Center (University Private Certified Housing)
