@@ -17,8 +17,8 @@ Work experience
 ======
 * March 2023 - Present: Undergraduate Student Researcher
   * Focal Lab, Champaign, IL
-  * Duties included: •Optimized a large code base involving multiple langauges (Soufflé, Java, Python, etc.) to enhence the tradeoff between precision and scalability of Pointer Analysis. Modified a Pointer Analysis Framework to be amenable for Reinforcement Learning. Presented at weekly meetings where lab members and guests shared their work and provided feedbacks.
-  * •Mentors: [Gagandeep Singh](https://ggndpsngh.github.io/), [Yasmin Sarita](https://yasminsarita.com/)
+  * Optimized a large code base involving multiple langauges (Soufflé, Java, Python, etc.) to enhence the tradeoff between precision and scalability of Pointer Analysis. Modified a Pointer Analysis Framework to be amenable for Reinforcement Learning. Presented at weekly meetings where lab members and guests shared their work and provided feedbacks.
+  * Mentors: [Gagandeep Singh](https://ggndpsngh.github.io/), [Yasmin Sarita](https://yasminsarita.com/)
 
 * Jan 2022 - Aug 2022: Undergraduate Student Researcher
   * Illinois Geometry Lab at UIUC Mathematics Department, Champaign, IL
@@ -52,14 +52,15 @@ Work experience
   
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
   • **CS 124** *An Introduction to Computer Science* Course Associate Head (Since 2022 Fall)  
   Instructor: [Prof. Geoffrey Challen](https://www.geoffreychallen.com/)
   
-Service and leadership
+Scholarships and awards
 ======
 * Mrs. E. J. Hoover Scholarship
 * Outstanding Course Assistants Award of Fall 2022 (Department of Computer Science at UIUC)
+
+Service and leadership
+======
+* Oct 2020 - Present: Vice President of [Corn TV (University RSO)](https://www.youtube.com/channel/UCjMbIxvnViflb12nVl_A7pg)
+* Aug 2022 - Aug 2023: Resident Advisor for Community Engagement at St. John’s Catholic Newman Center(University Private Certified Housing)
