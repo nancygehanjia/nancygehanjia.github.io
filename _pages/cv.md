@@ -17,7 +17,7 @@ Work experience
 ======
 * March 2023 - Present: Undergraduate Student Researcher
   * Focal Lab, Champaign, IL
-  * Optimized a large code base involving multiple langauges (Soufflé, Java, Python, etc.) to enhence the tradeoff between precision and scalability of Pointer Analysis. Modified a Pointer Analysis Framework to be amenable for Reinforcement Learning. Presented at weekly meetings where lab members and guests shared their work and provided feedbacks.
+  * Optimized a large code base involving multiple langauges (Soufflé, Java, Python, etc.) to enhance the tradeoff between precision and scalability of Pointer Analysis. Modified a Pointer Analysis Framework to be amenable for Reinforcement Learning. Presented at weekly meetings where lab members and guests shared their work and provided feedbacks.
   * Mentors: [Gagandeep Singh](https://ggndpsngh.github.io/), [Yasmin Sarita](https://yasminsarita.com/)
 
 * Jan 2022 - Aug 2022: Undergraduate Student Researcher
@@ -27,7 +27,7 @@ Work experience
 
 * Summer 2021: Project Manager Assistant
   * Beijing Beiming Shuke Information & Technology Co., Ltd., Guangzhou Branch, Guangzhou, China
-  * Collaborated with several leading tech companies in a government issued project on building secured applications for citizen activity monitorization and facility management. Coordinated with Project Managers and Architects on data transportations and test result deliveries. Ensured the synchronization of data in both testing and performing environments
+  * Collaborated with several leading tech companies in a government issued project on building secured applications for citizen activity monitoring and facility management. Coordinated with Project Managers and Architects on data transportations and test result deliveries. Ensured the synchronization of data in both testing and performing environments
   
 <!-- Skills
 ======
