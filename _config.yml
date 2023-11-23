@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CS Student"
+title                    : "Gehan (Nancy) Jia"
 title_separator          : "-"
 name                     : &name "Gehan (Nancy) Jia 贾盖涵"
-description              : &description "CS Student"
+description              : &description "description"
 url                      : https://nancygehanjia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nancygehanjia/nancygehanjia.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Gehan (Nancy) Jia 贾盖涵"
-  avatar           : "/Users/gehanjia/Desktop/Personal_Website/nancygehanjia.github.io/IMG_9617.JPG"
+  avatar           : "https://nancygehanjia.github.io/images/IMG_9617.JPG"
   bio              : "CS Student"
-  location         : "Champaign, IL USA"
+  location         : "Champaign IL, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
