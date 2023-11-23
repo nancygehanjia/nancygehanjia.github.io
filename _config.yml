@@ -10,9 +10,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1"
+title                    : "Gehan (Nancy) Jia"
 title_separator          : "-"
-name                     : &name "2"
+name                     : &name "Nancy Jia"
 description              : &description "description"
 url                      : https://nancygehanjia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "3"
+  name             : "Gehan (Nancy) Jia 贾盖涵"
   avatar           : "https://nancygehanjia.github.io/images/profilepic.JPG"
   bio              : "Student"
   location         : "Champaign IL, USA"
