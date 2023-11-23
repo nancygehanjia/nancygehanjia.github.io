@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am Minoring in Critical Film Prodcution at UIUC. 
+I am Minoring in Critical Film Prodcution at UIUC's College of Media. 
 
 Here is the work I presented at UIUC's 2023 Undergraduate Research Symposium: [Howl's Moving Castle Moving](https://youtu.be/StPev5OnTlI). This project is advised by [Dr. OK](http://jennyok.com/).
 
