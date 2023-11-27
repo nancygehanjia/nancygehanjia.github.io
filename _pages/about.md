@@ -10,9 +10,9 @@ redirect_from:
 
 My name is Gehan Jia, I also go by Nancy. I am currently a senior undergraduate student at the University of Illinois at Urbana-Champaign (UIUC) majoring in Math + CS. I am expected to graduate in May 2024.
  
-I am applying for Graduate Study positions in Computer Science, 2024 fall. My interests lies in Formal Methods.
+I am planing to go into graduate study for Computer Science. My interest lies in Formal Methods.
  
-Currently, I am working in [Professor Gagandeep Singh's FOCAL Lab](https://ggndpsngh.github.io/) as an undergraduate researcher. My focus of research is on Pointer Analysis, a discipline that involves abstract logical concepts and emphasizes the validation of computer programs intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++ and Soufflé. In this project, I am taking a look at a pointer analysis program called “[Scaler](https://bitbucket.org/yanniss/doop/src/master/)", which can apply context-sensitive analysis on any Java program; it focuses on time-importance, that is, it makes the analysis process scalable with any given time threshold. My goal is to improve its current performance so that it also considers precision of the analysis.
+Currently, I am working in [Professor Gagandeep Singh's FOCAL Lab](https://ggndpsngh.github.io/) as an undergraduate researcher. My focus of research is on Pointer Analysis, a discipline that involves abstract logical concepts intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++ and Soufflé. My goal is to improve scalability and precision of existing techniques.
 
 Feel free to reach out to me through email!
 
