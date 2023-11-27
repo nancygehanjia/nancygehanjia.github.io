@@ -12,7 +12,7 @@ My name is Gehan Jia, I also go by Nancy. I am currently a senior undergraduate 
  
 I am planing to go into graduate study for Computer Science. My interest lies in Formal Methods.
  
-Currently, I am working in [Professor Gagandeep Singh's FOCAL Lab](https://ggndpsngh.github.io/) as an undergraduate researcher. My focus of research is on Pointer Analysis, a discipline that involves abstract logical concepts intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++ and Soufflé. My goal is to improve scalability and precision of existing techniques.
+Currently, I am working in [Professor Gagandeep Singh's FOCAL Lab](https://ggndpsngh.github.io/) as an undergraduate researcher. I am working with [Yasmin Sarita](https://yasminsarita.com/) on Pointer Analysis, a discipline that involves abstract logical concepts intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++ and Soufflé. My goal is to improve scalability and precision of existing techniques.
 
 Feel free to reach out to me through email!
 
