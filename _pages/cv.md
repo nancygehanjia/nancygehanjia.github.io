@@ -54,9 +54,9 @@ Teaching
 ======
 * **CS 124** *An Introduction to Computer Science* Course Associate Head (Since 2022 Fall)  
   Instructor: [Prof. Geoffrey Challen](https://www.geoffreychallen.com/)
-  *Helped develop coursework content in Java and Kotlin for 1000+ students every semester
-  *Authorized coding problems through [Questioner](https://www.beyondgrader.com/)
-  *Held in-person and online office hours and meetings, worked for 10+ hours each week
+  * Helped develop coursework content in Java and Kotlin for 1000+ students every semester
+  * Authored coding problems through [Questioner](https://www.beyondgrader.com/)
+  * Held in-person and online office hours and meetings, worked for 10+ hours each week
   
 Scholarships and awards
 ======
