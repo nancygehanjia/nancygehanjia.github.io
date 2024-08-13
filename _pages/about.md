@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Gehan Jia, I also go by Nancy. I am currently a senior undergraduate student at the University of Illinois at Urbana-Champaign (UIUC) majoring in Math + CS. I am expected to graduate in May 2024.
- 
-I am planing to go into graduate study for Computer Science. My interest lies in Formal Methods.
- 
-Currently, I am working in [Professor Gagandeep Singh's FOCAL Lab](https://ggndpsngh.github.io/) as an undergraduate researcher. I am working with [Yasmin Sarita](https://yasminsarita.com/) on Pointer Analysis, a discipline that involves abstract logical concepts intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++ and Soufflé. My goal is to improve scalability and precision of existing techniques.
+My name is Gehan Jia, I also go by Nancy. I am currently a Master's student at the University of Illinois at Urbana-Champaign (UIUC), studying Computer Science. I am expected to graduate in May 2026. I received a BS degree from UIUC in May 2024, my major was Math and Computer Science, and my minor was in Critical Film Production.
+
+Currently, I am working in Professor Gagandeep Singh’s FOCAL Lab. I am working with Yasmin Sarita on Pointer Analysis, a discipline that involves abstract logical concepts intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++, and Soufflé. My goal is to improve the scalability and precision of existing techniques.
+
+I am interested in further studies in Formal Methods and Verification. I am also passionate about video production and am looking to combine my computer science knowledge with this discipline.
 
 Feel free to reach out to me through email!
 

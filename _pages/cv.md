@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Computer Science, University of Illinois at Urbana-Champaign, 2024 (expected)
+* M.S. in Mathematics and Computer Science, University of Illinois at Urbana-Champaign, May 2026 (expected)
+* B.S. in Mathematics and Computer Science, University of Illinois at Urbana-Champaign, May 2024
+  * Minor in Critical Film Production
+  * Cumulative GPA: 3.78/4.00
 
 Work experience
 ======
@@ -57,6 +60,12 @@ Teaching
   * Helped develop coursework content in Java and Kotlin for 1000+ students every semester
   * Authored coding problems through [Questioner](https://www.beyondgrader.com/)
   * Held in-person and online office hours and meetings, worked for 10+ hours each week
+
+* **CS 477** *Formal Software Development Methods* Course Assistant (2024 Spring)  
+  Instructor: [Prof. Gagandeep Singh](https://ggndpsngh.github.io/)
+  * Held weekly office hours
+  * Develop and refined assingment and lecture contents
+  * Graded homework and follow up with regrade arguments
   
 Scholarships and awards
 ======
