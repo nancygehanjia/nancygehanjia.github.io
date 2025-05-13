@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Gehan Jia, I also go by Nancy. I am currently a Master's student at the University of Illinois at Urbana-Champaign (UIUC), studying Computer Science. I am expected to graduate in May 2026. I received a BS degree from UIUC in May 2024, my major was Math and Computer Science, and my minor was in Critical Film Production.
+My name is Gehan Jia, I also go by Nancy. I received a BS degree from UIUC in May 2024, my major was Math and Computer Science, and my minor was in Critical Film Production.
 
-Currently, I am working in Professor Gagandeep Singh’s FOCAL Lab. I am working with Yasmin Sarita on Pointer Analysis, a discipline that involves abstract logical concepts intended for practical use. I am now working with a mixed pool of programming languages such as Java, Python, C++, and Soufflé. My goal is to improve the scalability and precision of existing techniques.
+I started my MSCS program at UIUC in 2024 fall. However, I started to have several major health problems, and I had to put a pause to my studies and return to my family and undergo an invasive surgery. It was a success, and I am recovering fast.
 
-I am interested in further studies in Formal Methods and Verification. I am also passionate about video production and am looking to combine my computer science knowledge with this discipline.
+Currently, I am working on independent software projects. They will be used in the building of a startup based on food and beverage services that intersect with modern multi-cultural phenomena. That is, we are building food recipes that are not only good to the taste, but also pleasing to the eyes by visually showcasing their own cultural message. We believe food is the most important building block of any culture.
+
+I am passionate about video production and am looking to combine my computer science knowledge with this discipline.
 
 Feel free to reach out to me through email!
 
