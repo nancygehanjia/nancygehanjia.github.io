@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Gehan Jia, I also go by Nancy. I received a BS degree from UIUC in May 2024, my major was Math and Computer Science, and my minor was in Critical Film Production.
+My name is Gehan Jia, I also go by Nancy. I received my BS degree from UIUC in May 2024, majoring in Mathematics and Computer Science with a minor in Critical Film Production.
 
-I started my MSCS program at UIUC in 2024 fall. However, I started to have several major health problems, and I had to put a pause to my studies and return to my family and undergo an invasive surgery. It was a success, and I am recovering fast.
+I began my MSCS program at UIUC in Fall 2024 and expect to graduate in Winter 2026. I hope to focus my thesis in the field of Formal Methods, while also exploring other directions such as Game Development.
 
-Currently, I am working on independent software projects. They will be used in the building of a startup based on food and beverage services that intersect with modern multi-cultural phenomena. That is, we are building food recipes that are not only good to the taste, but also pleasing to the eyes by visually showcasing their own cultural message. We believe food is the most important building block of any culture.
+Currently, I am working on an independent software development project in collaboration with research teams from the UIUC Psychology Department.
 
-I am passionate about video production and am looking to combine my computer science knowledge with this discipline.
+I am passionate about film production and am looking to combine my computer science knowledge with this creative discipline.
 
 Feel free to reach out to me through email!
 
