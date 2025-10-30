@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mathematics and Computer Science, University of Illinois at Urbana-Champaign, May 2026 (expected)
+* M.S. in Mathematics and Computer Science, University of Illinois at Urbana-Champaign, Dec 2026 (expected)
 * B.S. in Mathematics and Computer Science, University of Illinois at Urbana-Champaign, May 2024
   * Minor in Critical Film Production
   * Cumulative GPA: 3.78/4.00
