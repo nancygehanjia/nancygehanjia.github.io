@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Gehan (Nancy) Jia"
 title_separator          : "-"
 name                     : &name "Nancy Jia"
-description              : &description "description"
+description              : &description "Gehan (Nancy) Jia - MS in Computer Science at UIUC. Software engineering, formal methods, and creative technology."
 url                      : https://nancygehanjia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nancygehanjia/nancygehanjia.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Gehan (Nancy) Jia 贾盖涵"
   avatar           : "https://nancygehanjia.github.io/images/profile_pic1.jpg"
-  bio              : "Student"
+  bio              : "MS in Computer Science @ UIUC | Seeking Summer 2026 Internships"
   location         : "Champaign IL, USA"
   employer         :
   pubmed           : 
@@ -105,7 +105,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "nancy-jia-4a884422a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
