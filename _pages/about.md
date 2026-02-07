@@ -12,9 +12,7 @@ My name is Gehan Jia, and I also go by Nancy. I am a Master's student in Compute
 
 ## What I'm Working On
 
-**[SelfReflectiveRatings](https://claude.d1ef5vsv1cb198.amplifyapp.com/)** — A full-stack web application for personality self-assessments and multiplayer peer rating games, built in collaboration with UIUC Psychology Department research teams. Built with React, Supabase, and PostgreSQL, deployed on AWS Amplify.
-
-**Poo's Voice Transformer** — A real-time voice effects desktop application with pitch shifting and audio effects (robot, autotune, echo, 8-bit). Built with Python, PyQt6, and SciPy.
+I am working with [Elsa Gunter](https://egunter.cs.illinois.edu/) for my master's thesis. My focus is on automated theory proving.
 
 ## Experience
 
