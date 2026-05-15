@@ -28,4 +28,4 @@ Isabelle/HOL, Isar proof language, Archive of Formal Proofs (Undirected Graph Th
 
 ## Links
 
-- [GitHub Repository](https://github.com/nancygehanjia/Formalization-of-Burning-Graph-with-Isabelle)
+- [Presentation Slides](/files/burning-graph-presentation.html)
