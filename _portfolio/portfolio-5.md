@@ -29,3 +29,4 @@ Isabelle/HOL, Isar proof language, Archive of Formal Proofs (Undirected Graph Th
 ## Links
 
 - [Presentation Slides](/files/burning-graph-presentation.html)
+- [Companion paper: *Burning Graphs*](/files/Graph_Burning.pdf) (PDF) — the Illinois Geometry Lab paper on the combinatorial side of the conjecture, which motivated this formalization.

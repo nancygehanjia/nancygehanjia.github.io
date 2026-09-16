@@ -17,3 +17,7 @@ Research project at the Illinois Geometry Lab (UIUC Math Department), mentored b
 ## Tech Stack
 
 Python (recursive algorithms, matrix frameworks)
+
+## Links
+
+- [Full paper: *Burning Graphs*](/files/Graph_Burning.pdf) (PDF) — Illinois Geometry Lab paper with Xianghe Xu, Xinrui Chen, and Haozhen Zheng. Derives bounds on the structure of a minimal counterexample to the Burning Number Conjecture (leaf count and pendant path length in the reduced tree case), introduces the relaxed notion of *(k, ℓ)-burnability*, and presents the checking algorithm this simulator implements.
