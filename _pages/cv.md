@@ -53,26 +53,16 @@ Projects
   * Real-time game lobbies, auto-save, score calculation via Pearson correlation
   * Admin portal with user management, survey CRUD, data export (JSON/CSV)
 
-* **Poo's Voice Transformer** \| Python, PyQt6, NumPy, SciPy
-  * Real-time voice effects desktop app with robot, autotune, echo, and 8-bit effects
-  * Low-latency audio streaming with configurable I/O and pitch shifting (0.5x–2.0x)
-
 * **[NoodleEscape](https://github.com/nancygehanjia/NoodleEscape)** \| C#, Unity, ShaderLab, HLSL — CS 415 VR Project
   * First-person VR action game where the player catches dried noodles falling from a kitchen cabinet before they hit the floor and break apart
   * Built a kitchen environment in Unity with interactable cabinet doors, rolling noodle physics with collision detection, and player movement (walk, squat, jump)
   * Implemented custom rendering pipeline using command buffer abstractions and shader programming
 
-* **[Planet Hopper](https://github.com/Dandandooo/planet-hopper)** \| GDScript, Godot — CS 415 Group Project
-  * 2D gravity-based platformer where players navigate across planetary environments with variable gravity mechanics
-  * Built with Godot engine featuring multi-level design, scene management, game state tracking, and background music system
-
-* **[In the Blue](https://poo-0331.itch.io/in-the-blue)** \| Unity, C# — thatgamejam#1, Dec 2025
+* **[In the Blue](https://poo-0331.itch.io/in-the-blue-multiplayer-available)** \| Unity, C# — thatgamejam#1, Dec 2025
   * 3D fantasy adventure/puzzle game where it takes two players to unlock the true ending, featuring RPG, interactive fiction, and visual novel elements
   * Responsible for programming and sound design in a 3-person team
 
-* **Burning Graph Simulator** \| Python
-  * Simulated graph burning algorithms on complex graphs with 500+ vertices
-  * Combined recursive algorithms and matrix frameworks to verify properties of minimal counterexamples
+*Additional projects — including research write-ups, formal verification work, and further game and audio projects — are on my [portfolio page]({{ base_path }}/portfolio/).*
 
 Skills
 ======
