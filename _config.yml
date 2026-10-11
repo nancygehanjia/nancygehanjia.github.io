@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Gehan (Nancy) Jia 贾盖涵"
   avatar           : "https://nancygehanjia.github.io/images/profile_pic1.jpg"
-  bio              : "MS in Computer Science @ UIUC | Seeking Summer 2026 Internships"
+  bio              : "MS in Computer Science @ UIUC | Seeking Spring 2027 Full-time & Internships"
   location         : "Champaign IL, USA"
   employer         :
   pubmed           : 
@@ -142,6 +142,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - claude_planning_docs
   - config
   - gulpfile.js
   - log
