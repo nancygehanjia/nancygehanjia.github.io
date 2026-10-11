@@ -27,8 +27,10 @@ Work Experience
 
 * **CS 477 Course Assistant** — Department of Computer Science, UIUC \| Spring 2024
   * Instructor: [Prof. Gagandeep Singh](https://ggndpsngh.github.io/)
+  * Course covered formal software development methods, including the [Z3](https://github.com/Z3Prover/z3) SMT/theorem prover
+  * Designed and graded assignments on Z3
   * Held weekly office hours and developed assignment and lecture content
-  * Graded homework and resolved regrade requests
+  * Resolved regrade requests
 
 * **Undergraduate Student Researcher** — Focal Lab, UIUC \| Mar 2023 – May 2024
   * Mentors: [Gagandeep Singh](https://ggndpsngh.github.io/), [Yasmin Sarita](https://yasminsarita.com/)
