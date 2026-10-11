@@ -1,0 +1,74 @@
+---
+layout: null
+sitemap: false
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Dictionary Flowchart</title>
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="app-header__inner">
+    <h1 class="app-header__title" id="project-title">Dictionary Flowchart</h1>
+    <div class="app-header__switcher">
+      <label class="visually-hidden" for="project-switcher">Project</label>
+      <select id="project-switcher" class="select">
+        <option>Loading projects…</option>
+      </select>
+    </div>
+  </div>
+</header>
+
+<nav class="panel-tabs" id="panel-tabs" aria-label="Panel switcher">
+  <button type="button" class="panel-tabs__btn is-active" data-panel="dictionary" aria-selected="true">Dictionary</button>
+  <button type="button" class="panel-tabs__btn" data-panel="flowchart" aria-selected="false">Flowchart</button>
+</nav>
+
+<main class="app-body" id="app-body">
+
+  <section class="panel panel--dictionary is-active" id="panel-dictionary" aria-label="Dictionary">
+    <div class="panel__toolbar">
+      <input type="search" id="search-input" class="search" placeholder="Search terms and definitions…" autocomplete="off">
+      <label class="visually-hidden" for="sort-select">Sort by</label>
+      <select id="sort-select" class="select select--sort">
+        <option value="updated">Last edited</option>
+        <option value="alpha-asc">A → Z</option>
+        <option value="alpha-desc">Z → A</option>
+        <option value="created">Date created</option>
+      </select>
+    </div>
+    <div class="panel__scroll">
+      <ol class="entry-list" id="entry-list"></ol>
+      <div class="placeholder" id="dictionary-placeholder">
+        <p>Entry list arrives in step 3.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel panel--flowchart" id="panel-flowchart" aria-label="Flowchart">
+    <div class="panel__toolbar panel__toolbar--flowchart">
+      <ol class="trail" id="trail" aria-label="Terms visited"></ol>
+      <button type="button" class="btn" id="recenter-btn">Recenter</button>
+    </div>
+    <div class="flowchart-stage" id="flowchart-stage">
+      <div class="placeholder">
+        <p>Flowchart arrives in step 4.</p>
+      </div>
+    </div>
+    <div class="legend" id="legend" hidden>
+      <span class="legend__item"><span class="legend__line legend__line--solid"></span>uses</span>
+      <span class="legend__item"><span class="legend__line legend__line--dashed"></span>used by</span>
+    </div>
+  </section>
+
+</main>
+
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
