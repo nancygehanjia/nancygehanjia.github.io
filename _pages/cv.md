@@ -18,19 +18,24 @@ Education
 
 Work Experience
 ======
-* **CS 124 Teaching Assistant** — Department of Computer Science, UIUC \| Aug 2021 – Present
+* **Graduate Student Researcher** — Department of Computer Science, UIUC \| Fall 2024 – Present
+  * Mentor: [Elsa Gunter](https://egunter.cs.illinois.edu/)
+  * Conquering the Burning Number Conjecture with an inductive algorithm based on case analysis
+  * Defined dynamic and static graph burning processes with recursive logic and geometric calculation
+  * Formalized special graph structures and enumeration logic on their vertex sets in Isabelle/HOL
+
+* **CS 124 Teaching Assistant Head** — Department of Computer Science, UIUC \| Aug 2021 – Present
   * Instructor: [Prof. Geoffrey Challen](https://www.geoffreychallen.com/)
-  * Developed coursework content in Java and Kotlin for 1000+ students per semester
-  * Built automated grading systems on the [Questioner](https://www.beyondgrader.com/) platform, improving assessment efficiency
-  * Conducted recruitment, training, and performance evaluation of student staff as lead TA
-  * Built an online forum platform based on Discourse, customizing layout and appearance with CSS
+  * Authored coding questions, real-time solution walkthroughs, and debugging challenges in Java and Kotlin
+  * Held in-person office hours for real-time debugging with students, and managed course staff as head TA
+  * Built innovative automated grading systems such as the self-validating [Questioner](https://www.beyondgrader.com/)
+  and the Time-On-AI grading architecture with the GPT-5 model
+  * Designed conversational programming projects with Claude Code and Codex agents
 
 * **CS 477 Course Assistant** — Department of Computer Science, UIUC \| Spring 2024
   * Instructor: [Prof. Gagandeep Singh](https://ggndpsngh.github.io/)
-  * Course covered formal software development methods, including the [Z3](https://github.com/Z3Prover/z3) SMT/theorem prover
-  * Designed and graded assignments on Z3
-  * Held weekly office hours and developed assignment and lecture content
-  * Resolved regrade requests
+  * Designed and graded homework problems on big-step/small-step semantics, propositional and first-order logic, Hoare logic, etc.
+  * Designed and graded program analysis assessments on the [Z3](https://github.com/Z3Prover/z3) SMT/theorem prover
 
 * **Undergraduate Student Researcher** — Focal Lab, UIUC \| Mar 2023 – May 2024
   * Mentors: [Gagandeep Singh](https://ggndpsngh.github.io/), [Yasmin Sarita](https://yasminsarita.com/)
@@ -41,28 +46,28 @@ Work Experience
 * **Undergraduate Student Researcher** — Illinois Geometry Lab, UIUC Math Dept \| Jan 2022 – Aug 2022
   * Mentor: Sean English
   * Developed graph burning simulators in Python for graphs with 500+ vertices
-  * Used linear algebra and spectral analysis to study properties related to the Burning Number Conjecture
+  * Used matrix representation and spectral analysis to examine graph properties
 
 * **Project Manager Assistant (Intern)** — Beijing Beiming Digital Technology \| June 2021
   * Collaborated with Tencent on a government project for citizen activity monitoring and public facility management
+  * Analyzed AI-monitoring system data for risk assessments and resource allocation decisions
   * Coordinated across technical and project management teams on data transport and test delivery
-  * Assisted in project planning, resource allocation, and risk assessment
 
 Projects
 ======
 * **[SelfReflectiveRatings](https://claude.d1ef5vsv1cb198.amplifyapp.com/)** \| React, Supabase, PostgreSQL, AWS Amplify — Independent Study advised by Geoffrey Challen
-  * Full-stack web app built for the UIUC Psychology Department (PI: [Brent Roberts](https://psychology.illinois.edu/directory/profile/bwrobrts)) for personality self-assessments (BFI-2, BESSI-20) and multiplayer peer rating games
-  * Real-time game lobbies, auto-save, score calculation via Pearson correlation
-  * Admin portal with user management, survey CRUD, data export (JSON/CSV)
+  * Solo-designed full-stack web app for the UIUC Psychology Department (PI: [Brent Roberts](https://psychology.illinois.edu/directory/profile/bwrobrts)) for personality self-assessments (BFI-2, BESSI-20) and multiplayer peer rating games
+  * Implemented real-time game lobbies with a team-match algorithm, auto-save features, and dynamic score calculation incorporating Pearson correlation
+  * Built with React for the UI and Supabase/PostgreSQL for user management; deployed on AWS Amplify
 
 * **[NoodleEscape](https://github.com/nancygehanjia/NoodleEscape)** \| C#, Unity, ShaderLab, HLSL — CS 415 VR Project
-  * First-person VR action game where the player catches dried noodles falling from a kitchen cabinet before they hit the floor and break apart
-  * Built a kitchen environment in Unity with interactable cabinet doors, rolling noodle physics with collision detection, and player movement (walk, squat, jump)
+  * Developed a first-person action game for VR headsets using Unity XR
+  * Built food assets in Blender and created a realistic kitchen environment in Unity with designated interactive game objects and player movement
   * Implemented custom rendering pipeline using command buffer abstractions and shader programming
 
 * **[In the Blue](https://poo-0331.itch.io/in-the-blue-multiplayer-available)** \| Unity, C# — thatgamejam#1, Dec 2025
-  * 3D fantasy adventure/puzzle game where it takes two players to unlock the true ending, featuring RPG, interactive fiction, and visual novel elements
-  * Responsible for programming and sound design in a 3-person team
+  * Built a 3D fantasy adventure/puzzle real-time multiplayer game featuring RPG, interactive fiction, and visual novel elements
+  * Led a 3-person team, responsible for programming, level design, and sound design
 
 *Additional projects — including research write-ups, formal verification work, and further game and audio projects — are on my [portfolio page]({{ base_path }}/portfolio/).*
 
