@@ -73,7 +73,7 @@ Projects
 
 Skills
 ======
-* **Programming:** C/C++/C#, Python, Java, Kotlin, GDScript, HTML/CSS, JavaScript, React, SQL, OCaml, Souffle/Datalog, HLSL/ShaderLab, LaTeX
+* **Programming:** C/C++/C#, Python, Java, Kotlin, GDScript, HTML/CSS, JavaScript, React, SQL, OCaml, Isabelle/HOL, Z3, Souffle/Datalog, HLSL/ShaderLab, LaTeX
 * **Tools & Platforms:** Git, Supabase, PostgreSQL, AWS Amplify, Unity, Meta XR SDK, Godot, Unreal Engine, Blender
 * **Media Production:** Adobe Photoshop, Adobe Premiere, Final Cut Pro X, DaVinci Resolve
 * **Languages:** English (fluent), Mandarin Chinese (fluent)
